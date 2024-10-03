@@ -31,31 +31,6 @@ Start the application:
 bash
 npm start
 
-File Structure
-virtual-book-library/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── BookCard.js
-│   │   ├── BookList.js
-│   │   └── SearchBar.js
-│   ├── context/
-│   │   └── LibraryContext.js
-│   ├── pages/
-│   │   ├── BookDetailsPage/
-│   │   │   └── BookDetailsPage.js
-│   │   ├── HomePage/
-│   │   │   └── HomePage.js
-│   │   └── MyLibraryPage/
-│   │       └── MyLibraryPage.js
-│   ├── services/
-│   │   └── bookData.js
-│   ├── App.js
-│   ├── App.css
-│   └── index.js
-├── .gitignore
-├── package.json
-└── README.md
 
 Usage
 On the Home Page, you can view a list of books and search for specific titles.
