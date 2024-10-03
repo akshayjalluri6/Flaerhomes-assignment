@@ -1,0 +1,20 @@
+.book-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.book-card h3 {
+  margin-bottom: 10px;
+}
+
+.book-card a {
+  text-decoration: none;
+  color: #007BFF;
+  font-weight: bold;
+}
+
+.book-card a:hover {
+  text-decoration: underline;
+}
